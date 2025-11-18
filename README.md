@@ -5,7 +5,7 @@
 
 ### About Me
 - I am currently studying **Administration of Networked Computer Systems (ASIX)** at **ENTI**.  
-- I have a strong interest in **cybersecurity**, networking, and system administration.  
+- I have a strong interest in **cybersecurity**, and system administration.  
 - Currently learning **C++** and **PHP**.  
 - You can contact me at: **alex.llinares@estudiant.enti.cat**
 
